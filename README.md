@@ -52,7 +52,7 @@ https://docs.google.com/document/d/1tleRVoK3off9RI6paLStjcCaRx9lWstOEIZtArhnLYI
 
 | Название | Файл |
 |---------|------|
-| Чек-листы, тест-кейсы, баг-репорты | `Виктор Прокопович, 31-я когорта — 2-й спринт___.xlsx` |
+| Чек-листы, тест-кейсы, баг-репорты | `Sprint_2` |
 | Google-таблица с тестами | (./Sprint_2.xlsx) |
 
 ---
